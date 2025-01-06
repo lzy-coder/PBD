@@ -8,7 +8,7 @@ Zhenyuan Lin, Danhua Liu*, Lai Wei, Yubo Dong
 
 <img src="resources/combined_image_body.png">
 
-Figure 1: some sample images from the Plastic
+Figure 1: Some sample images from the Plastic
 Bottle Body dataset along with their corresponding annotations
 
 <img src="resources/size_distribution_body.png">
@@ -17,7 +17,7 @@ Figure 2: Distribution of defect annotation features for the Plastic Bottle Body
 
 <img src="resources/combined_image_shoulder.png">
 
-Figure 3: some sample images images from the Plastic Bottle
+Figure 3: Some sample images images from the Plastic Bottle
 Shoulder dataset along with their corresponding annotations
 
 <img src="resources/size_distribution_shoulder.png">
@@ -73,7 +73,7 @@ This work is forked from MMdetection Repository https://github.com/open-mmlab/mm
 
 ```
 @inproceedings{PBD,
-  author    = {Zhenyuan Lin,Danhua Liu,Lai Wei Yubo Dong}
+  author    = {Zhenyuan Lin,Danhua Liu,Lai Wei, Yubo Dong}
   title     = {PBD: Plastic Bottle Dataset for Defect Detection}
   booktitle = {ICASSP}
   year      = {2025}
