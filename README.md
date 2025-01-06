@@ -67,7 +67,7 @@ python tools/train.py {config_file}
 # python configs/atss/atss_r50_fpn_1x_coco.py
 ```
 ### 4. Acknowledgment
-This work is forked from MMdetection Repository https://github.com/open-mmlab/mmdetection
+This work is forked from MMdetection Repository https://github.com/open-mmlab/mmdetection.
 
 ## Citation
 
